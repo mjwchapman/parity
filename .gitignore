@@ -1,4 +1,5 @@
 *.jar
+*.jfr
 *.log
 target/
 .classpath
